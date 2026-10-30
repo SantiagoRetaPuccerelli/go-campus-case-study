@@ -9,7 +9,7 @@
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
 <!-- Screenshot of the campus home page, with no student data visible -->
-![Campus home page](screenshots/home.png)
+![Campus home page](home.png)
 
 ## Context and problem
 
@@ -80,4 +80,4 @@ I would deploy first and optimize later. I spent a lot of time tuning for a load
 
 ## Screenshots
 
-![A course page](screenshots/course.png)
+![A course page](course.png)
